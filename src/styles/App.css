@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.pelota-futbol {
+  fill: white;
+}
