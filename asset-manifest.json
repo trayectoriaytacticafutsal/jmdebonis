@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/jmdebonis/static/css/main.d1b05096.chunk.css",
-    "main.js": "/jmdebonis/static/js/main.ea076aad.chunk.js",
-    "main.js.map": "/jmdebonis/static/js/main.ea076aad.chunk.js.map",
+    "main.css": "/jmdebonis/static/css/main.39ea39b3.chunk.css",
+    "main.js": "/jmdebonis/static/js/main.d4bbd893.chunk.js",
+    "main.js.map": "/jmdebonis/static/js/main.d4bbd893.chunk.js.map",
     "runtime-main.js": "/jmdebonis/static/js/runtime-main.580a9b45.js",
     "runtime-main.js.map": "/jmdebonis/static/js/runtime-main.580a9b45.js.map",
-    "static/js/2.13267eb0.chunk.js": "/jmdebonis/static/js/2.13267eb0.chunk.js",
-    "static/js/2.13267eb0.chunk.js.map": "/jmdebonis/static/js/2.13267eb0.chunk.js.map",
+    "static/css/2.69121389.chunk.css": "/jmdebonis/static/css/2.69121389.chunk.css",
+    "static/js/2.51507279.chunk.js": "/jmdebonis/static/js/2.51507279.chunk.js",
+    "static/js/2.51507279.chunk.js.map": "/jmdebonis/static/js/2.51507279.chunk.js.map",
     "index.html": "/jmdebonis/index.html",
-    "precache-manifest.37626ce4c6d2f24f0b6708eaf2260c4e.js": "/jmdebonis/precache-manifest.37626ce4c6d2f24f0b6708eaf2260c4e.js",
+    "precache-manifest.2eb0065181f748ad399877b65f7d34e1.js": "/jmdebonis/precache-manifest.2eb0065181f748ad399877b65f7d34e1.js",
     "service-worker.js": "/jmdebonis/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/jmdebonis/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.13267eb0.chunk.js.LICENSE.txt": "/jmdebonis/static/js/2.13267eb0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/jmdebonis/static/media/logo.5d5d9eef.svg"
+    "static/css/2.69121389.chunk.css.map": "/jmdebonis/static/css/2.69121389.chunk.css.map",
+    "static/css/main.39ea39b3.chunk.css.map": "/jmdebonis/static/css/main.39ea39b3.chunk.css.map",
+    "static/js/2.51507279.chunk.js.LICENSE.txt": "/jmdebonis/static/js/2.51507279.chunk.js.LICENSE.txt",
+    "static/media/icon-facebook.svg": "/jmdebonis/static/media/icon-facebook.27428888.svg",
+    "static/media/icon-instagram.svg": "/jmdebonis/static/media/icon-instagram.19d095b1.svg",
+    "static/media/icon-pelota-futbol.svg": "/jmdebonis/static/media/icon-pelota-futbol.3e916ddf.svg",
+    "static/media/icon-twitter.svg": "/jmdebonis/static/media/icon-twitter.70be41fb.svg",
+    "static/media/icon-youtube.svg": "/jmdebonis/static/media/icon-youtube.5c8762ef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.580a9b45.js",
-    "static/js/2.13267eb0.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ea076aad.chunk.js"
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.51507279.chunk.js",
+    "static/css/main.39ea39b3.chunk.css",
+    "static/js/main.d4bbd893.chunk.js"
   ]
 }
