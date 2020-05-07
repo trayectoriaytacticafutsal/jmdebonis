@@ -1,5 +1,7 @@
 import React from 'react';
+import MainCarousel from './Carousel.js';
 import NavbarPage from './Navbar';
+import "../styles/App.css"
 
 class Home extends React.Component {
 
@@ -10,7 +12,10 @@ class Home extends React.Component {
     render() {
 
         return (
-            <NavbarPage/>
+            <React.Fragment >
+                <NavbarPage />
+                <MainCarousel />
+            </React.Fragment>
         );
     }
 
